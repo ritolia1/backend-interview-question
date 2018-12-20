@@ -1,5 +1,5 @@
 # backend-interview-question
-Interview Question asked for backend developers
+Interview Question asked for backend developers. Keep updating the list to help others.
 
 ## JAVA Interview Question
 ```
@@ -9,7 +9,7 @@ Interview Question asked for backend developers
   4.  HashMap collision
   5.  Closed addressing
   6.  Immutable Object
-  7.  XXs, XX in java process
+  7.  How to create an object of a class (new and newInstance)
   8.  Resource in the try catch
   9.  Create Stack in Java
   10. Diff between ArrayList and HashMap
@@ -24,7 +24,6 @@ Interview Question asked for backend developers
   19. Singleton Class thread safe
   20. HashCode and Equal
   21. clone() 
-  22. How to create an object of a class - (new and newInstance)
 ```
 
 ## Microservices Question
